@@ -15,7 +15,7 @@ setuptools.setup(
         "Documentation": "https://github.com/protocol/pystarboard",
         "Source": "https://github.com/protocol/pystarboard",
     },
-    packages=["mechafil"],
+    packages=["pystarboard"],
     install_requires=["numpy>=1.22", "pandas==1.5.3", "requests>=2.28"],
     python_requires=">=3.8",
     classifiers=[
